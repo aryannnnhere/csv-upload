@@ -1,0 +1,67 @@
+ID,MODULE,Issue Description -  User,Screenshot,Issue Type,Status,Done By
+SM_001,Enter OTP,didnt recieve the otp content is not centred,,,completed,Priyansh
+SM_002,login adress ,this page is scrollable,,,restest,Priyansh
+SM_003,Home Page,flash sale selected item should be look bigger just like happy wall ,,,completed,Priyansh
+SM_004,Signin -email,image width-height difference in all login pages,,,completed,Priyansh
+SM_005,Login pages,"in all login pages, if keyboard is open then veriy, login , send otp button dont direct to next page, first page render , keyboard go down then on clicking the button again next page loads",,,pending,
+SM_006,sidebar,"on going back about, catageories, favourites and more, i move to homepage instead of the list /sidebar",,,completed,Priyansh
+SM_007,login submit detail,i m able to subit 4 digit mobile no,,,completed,Priyansh
+SM_008,login email sign up,this page is scrollable,,,pending,
+SM_009,login submit detail,date formate is not set,,,completed,Priyansh
+SM_010,login submit detail,not able to see what email i am typing,,,completed,Priyansh
+SM_011,login address,"adress type - no option shown ex- home, office, others",,,completed,Jalaj
+SM_012,checkout ,not able to go ahead of this after selecting payment method,,,pending,
+SM_013,checkout ,payment gateway screen not accessable,,,pending,
+SM_014,order confirmed,this page is not accessable,,,pending,
+SM_015,Shoping Cart,"on clicking continue shoping, it should move to home page",,,pending,
+SM_016,order status- return order,"on selecting one reason, all options selected automatically",,,completed,Jalaj
+SM_017,order status- account detail,"this page is not accessable /linked, direct your refund will be initiated in 7 days redirect",,,pending,
+SM_018,checkout ,Error on clicking on payment method -  tge action navigate..,https://prnt.sc/M7rZsk7Yh0lG,,pending,
+SM_019,wallet history,"On going back from wallet history, i should move to wallet screen, not homepage",,,pending,Priyansh
+SM_020,profile,Change password screen is opening after clicking on add new addresss,,,completed,Jalaj
+SM_021,,Not able to move to homepage on clicking back to homepage,https://prnt.sc/P_TYjRHkwvTB,,pending,Priyansh
+SM_022,,No screen to add new account details/. Edit account,,,completed,Jalaj
+SM_023,edit profile,able to submit 4 digit mobile no,https://prnt.sc/2veklo3esB7W,,pending,Priyansh
+SM_024,edit profile,"date of birth format incorrect, able to sumbit string on dob input",https://prnt.sc/2veklo3esB7W,,pending,Priyansh
+SM_025,edit profile,not able to see what email id i am typing- it is encrypted,,,pending,Priyansh
+SM_026,product description ,"only show write product view , if customer already purchased it, not to every user",,,pending,Jalaj
+SM_027,product description ,add link to share the product,,,pending,
+SM_028,login as merchant,"not able to sign in/sign  , not able to move ahead from this app",,,completed,Priyansh
+SM_029,change password screen,inconsistent UX,,,completed,Jalaj
+,,,,,,
+,,Issue Description -  Merchant,,,,
+SM_001,side_bar,extra option of help,,,pending,
+SM_002,,incomplete help screen,,,pending,
+SM_003,Home,"on clicking on search bar, footer(home, profile, categories )is going above keaboard for all men , women ,kid section",,,pending,
+SM_004,,setting screen incomplete,,,pending,
+SM_005,wallet,"too much gap agter last line , link new account",,,pending,
+SM_006,profile,No response on clicking change phone number,,,pending,
+SM_007,profile,no response on clicking language,,,pending,
+SM_008,profile,small Error on clicking on manage account,,,pending,
+SM_009,profile,Error on clicking on chane password,,,pending,
+SM_010,profile ,"If i am on profile or, and go to wallet , withdraw, continue and go back to homepage.. i am moving on profile instead of homepage",,,pending,
+SM_011,categories,"If i am on categories or, and go to wallet , withdraw, continue and go back to homepage.. i am moving on categories instead of homepage",,,pending,
+SM_012,profile,"the box is touching the footer, no gap between them",,,pending,
+SM_013,side bar,g is not properly visible for catalog  and settings ,,,pending,
+SM_014,,No response on clicking manage account,,,pending,
+SM_015,feedback ,the text area of feedbox input is increasing if i am increaing the the text,,,pending,
+SM_016,owners profile,this page is missing,,,pending,
+SM_017,new arrivals,"too much gap after last line , 20% off",,,pending,
+SM_018,,"difference in design in some screens , like homepage, categories , explore",,,pending,
+SM_019,,position if search icon is different from the design in all pages,,,pending,
+SM_020,wallet,too much gap after the last line content,,,pending,
+SM_021,,"after clicking on add new product, it is moving to explore page",,,pending,
+SM_022,Sign in as mechant,"design difference , login as user button not present , small link is there instead of that",,,pending,
+SM_023,Sign up as merchant,"design difference , password is input on the same page but it has another screen in design after otp verifivcation",,,pending,
+SM_024,login 3,cant go back from this page,,,pending,
+SM_025,customer list,this page ui is wrong( contact tushar bhaiya ),,,pending,
+SM_026,product description ,no size option button present,,,pending,
+SM_027,product description ,add new option not working,,,pending,
+SM_028,add catalog - add new product,"on clicking add new product on catalog option , it moving in expolre page",,,pending,
+SM_029,order description ,this page is not found,,,pending,
+SM_030,explore ,too much gap after last content ,,,pending,
+SM_031,New Arrivals,uncausht error on clicking the image of any product,,,pending,
+SM_032,,"Owners Profile is replaced by profile ,  and owner profile page is missing, ",,,pending,
+SM_033,choose credit platform,no option to select a particular account,,,pending,
+SM_034,"customer list , customer associated",this page is missing,,,pending,
+SM_035,total order details,this page is missing,,,pending,
